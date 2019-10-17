@@ -34,6 +34,8 @@ During development of your application, the nodejs-express stack provides a buil
 
 The dashboard is only included during development, and is not included in images build using `appsody build`.
 
+- Dashboard endpoint: http://localhost:3000/appmetrics-dash (development only)
+
 ## Templates
 
 Templates are used to create your local project and start your development. This stack provides two templates, simple and scaffold.
